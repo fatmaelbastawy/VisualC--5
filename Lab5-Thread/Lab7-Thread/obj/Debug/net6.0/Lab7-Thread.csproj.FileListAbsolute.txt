@@ -1,0 +1,30 @@
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.exe
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.deps.json
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.runtimeconfig.json
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.dll
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.pdb
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.csproj.AssemblyReference.cache
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.AssemblyInfoInputs.cache
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.AssemblyInfo.cs
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.dll
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\refint\Lab7-Thread.dll
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.pdb
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.genruntimeconfig.cache
+C:\Users\saiko stores\Desktop\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\ref\Lab7-Thread.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.exe
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.deps.json
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.runtimeconfig.json
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\bin\Debug\net6.0\Lab7-Thread.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.csproj.AssemblyReference.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.AssemblyInfoInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.AssemblyInfo.cs
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.csproj.CoreCompileInputs.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\refint\Lab7-Thread.dll
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.pdb
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\Lab7-Thread.genruntimeconfig.cache
+C:\Users\saiko stores\3D Objects\Visual C#\Lab7-Thread\Lab7-Thread\obj\Debug\net6.0\ref\Lab7-Thread.dll
